@@ -1,5 +1,6 @@
 # irc-osu-bot
 <center>он умеет чето не знаю че<center>
+   
 <center>показываю вот че умеет<center>
 <img src="pervoe.jpg" width="600" alt="показываю вот че умеет">
 
