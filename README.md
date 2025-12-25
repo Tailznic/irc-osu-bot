@@ -1,4 +1,6 @@
 # irc-osu-bot
+сегодня бот доступен тут
+https://t.me/tailznicbot
 <center>он умеет чето не знаю че</center>
 <br>
 <br>
