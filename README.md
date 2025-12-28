@@ -4,9 +4,12 @@ https://t.me/tailznicbot
 <center>он умеет чето не знаю че</center>
 <br>
 <br>
-<center>показываю вот че умеет:</center>
-<br>
-<br>
+
+## 📖 как
+
+[как использовать](howtouse.md)
+
+## <center>показываю вот че умеет:</center>
 <img src="pervoe.jpg" width="600" alt="показываю вот че умеет">
 
 ## 🚀 как установить на temple os
