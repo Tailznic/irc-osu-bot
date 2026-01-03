@@ -1,4 +1,6 @@
-# irc-osu-bot
+<img src="vtoroe.png" width="600" alt="че">
+
+# 
 сегодня бот доступен тут
 https://t.me/tailznicbot
 <center>он умеет чето не знаю че</center>
